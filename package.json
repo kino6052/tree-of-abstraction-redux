@@ -1,0 +1,26 @@
+{
+  "name": "tree-of-abstraction-redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "build.sh",
+    "start": "node ./dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kino6052/tree-of-abstraction-redux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kino6052/tree-of-abstraction-redux/issues"
+  },
+  "homepage": "https://github.com/kino6052/tree-of-abstraction-redux#readme",
+  "dependencies": {
+    "@types/express": "^4.16.0",
+    "express": "^4.16.3",
+    "typescript": "^3.0.1"
+  }
+}
